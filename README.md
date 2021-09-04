@@ -1,2 +1,2 @@
 # kubernetes
-kubernetes YMl files
+kubernetes YML files
